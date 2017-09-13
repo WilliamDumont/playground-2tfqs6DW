@@ -2,6 +2,8 @@
 
 HELLO
 HELLO
+HELLO
+HELLO
 
 ```go runnable
 package main
