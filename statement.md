@@ -1,6 +1,6 @@
 # Welcome!
 
-This Go template lets you gely with a simple one-page playground.
+HELLO
 
 ```go runnable
 package main
